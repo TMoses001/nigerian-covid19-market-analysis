@@ -1,0 +1,15 @@
+,value
+tests per family,24.0
+expected false positives at 5% (per family),1.2000000000000002
+variance: raw significant,18.0
+variance: Holm significant,10.0
+variance: Bonferroni significant,9.0
+mean: raw significant,5.0
+mean: Holm significant,2.0
+mean: Bonferroni significant,2.0
+correlation-change tests (all): n tests,54.0
+correlation-change tests (all): raw significant,4.0
+correlation-change tests (all): Holm significant,0.0
+correlation-change tests (all): expected false positives,2.7
+"  3 markets, full sample (2017-): n tests",9.0
+  markets + bond yield changes (joint-complete): n tests,45.0
